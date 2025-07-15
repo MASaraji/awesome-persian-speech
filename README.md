@@ -1,5 +1,8 @@
 # awesome-persian-speech 🌟🗣️
 
+![](https://github.com/user-attachments/assets/481e211f-0e1f-4792-b0bc-14aeac95c8ca)
+
+
 An **awesome** curated list of resources for **Persian (Farsi) speech processing**, including datasets, ASR and TTS models, benchmarks, and papers.
 
 ---
