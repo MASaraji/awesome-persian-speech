@@ -38,6 +38,7 @@ This repository aims to collect and organize high-quality resources for research
 * **[Ganjoor Chunked Dataset](https://huggingface.co/datasets/farsi-asr/ganjoor-chunked-asr-dataset)**:
 * **[Mana-TTS](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS)**: ManaTTS is the largest publicly available single-speaker Persian corpus, comprising over 114 hours of high-quality audio (sampled at 44.1 kHz).
 * **[Mozilla's Common Voice](https://commonvoice.mozilla.org/fa/datasets)**: Mozilla's crowd-sourced speech corpus for Persian.
+* **[PAZHVAK](https://huggingface.co/datasets/MASaraji/PAZHVAK)**: Pazhvak is a publicly available, word-level Farsi speech corpus designed for research and development in Farsi speech processing.
 
 ---
 
