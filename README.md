@@ -32,6 +32,8 @@ This repository aims to collect and organize high-quality resources for research
 * **[Youtube Persian ASR](https://huggingface.co/datasets/PerSets/youtube-persian-asr)**: his dataset consists of over 385 hours of transcribed audio extracted from various YouTube videos in the Persian language (more than 400k rows).
 * **[Filimo Persian ASR](https://huggingface.co/datasets/PerSets/filimo-persian-asr)**: This dataset consists of about 245 hours of transcribed audio extracted from various Filimo (an Iranian VOD) videos in the Persian language (more than 400k rows).
 * **[Tarjoman Persian ASR](https://huggingface.co/datasets/PerSets/tarjoman-persian-asr)**: This datasets consists of a collection of 507 articles from the Tarjoman website until the end of 2023, each accompanied by corresponding audio recordings.
+* **[ASR Farsi Youtube Chunked-30 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-30-seconds)**:
+* **[ASR Farsi Youtube Chunked-10 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-10-seconds)**:
 
 ---
 
