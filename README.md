@@ -29,6 +29,9 @@ This repository aims to collect and organize high-quality resources for research
 * **Common Voice Persian**: Mozilla's crowd-sourced speech corpus for Persian.
 * **[Filimo Farsi](https://huggingface.co/datasets/MohammadGholizadeh/filimo-farsi)**: more thank 400K audio collected from filimo platform.
 * **[Youtube Farsi](https://huggingface.co/datasets/MohammadGholizadeh/youtube-farsi)**:  more than 100k audio collected from youtube platform.
+* **[Youtube Persian ASR](https://huggingface.co/datasets/PerSets/youtube-persian-asr)**: his dataset consists of over 385 hours of transcribed audio extracted from various YouTube videos in the Persian language (more than 400k rows).
+* **[Filimo Persian ASR](https://huggingface.co/datasets/PerSets/filimo-persian-asr)**: This dataset consists of about 245 hours of transcribed audio extracted from various Filimo (an Iranian VOD) videos in the Persian language (more than 400k rows).
+* **[Tarjoman Persian ASR](https://huggingface.co/datasets/PerSets/tarjoman-persian-asr)**: This datasets consists of a collection of 507 articles from the Tarjoman website until the end of 2023, each accompanied by corresponding audio recordings.
 
 ---
 
