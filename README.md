@@ -34,6 +34,7 @@ This repository aims to collect and organize high-quality resources for research
 * **[Tarjoman Persian ASR](https://huggingface.co/datasets/PerSets/tarjoman-persian-asr)**: This datasets consists of a collection of 507 articles from the Tarjoman website until the end of 2023, each accompanied by corresponding audio recordings.
 * **[ASR Farsi Youtube Chunked-30 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-30-seconds)**:
 * **[ASR Farsi Youtube Chunked-10 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-10-seconds)**:
+* **[Farsi ASR Dataset](https://huggingface.co/datasets/farsi-asr/farsi-asr-dataset)**:
 
 ---
 
