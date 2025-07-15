@@ -26,7 +26,6 @@ This repository aims to collect and organize high-quality resources for research
 
 ## 📂 Datasets
 
-* **Common Voice Persian**: Mozilla's crowd-sourced speech corpus for Persian.
 * **[Filimo Farsi](https://huggingface.co/datasets/MohammadGholizadeh/filimo-farsi)**: more thank 400K audio collected from filimo platform.
 * **[Youtube Farsi](https://huggingface.co/datasets/MohammadGholizadeh/youtube-farsi)**:  more than 100k audio collected from youtube platform.
 * **[Youtube Persian ASR](https://huggingface.co/datasets/PerSets/youtube-persian-asr)**: his dataset consists of over 385 hours of transcribed audio extracted from various YouTube videos in the Persian language (more than 400k rows).
@@ -35,6 +34,10 @@ This repository aims to collect and organize high-quality resources for research
 * **[ASR Farsi Youtube Chunked-30 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-30-seconds)**:
 * **[ASR Farsi Youtube Chunked-10 Seconds](https://huggingface.co/datasets/pourmand1376/asr-farsi-youtube-chunked-10-seconds)**:
 * **[Farsi ASR Dataset](https://huggingface.co/datasets/farsi-asr/farsi-asr-dataset)**:
+* **[Ganjoor Dataset](https://huggingface.co/datasets/farsi-asr/ganjoor-dataset)**:
+* **[Ganjoor Chunked Dataset](https://huggingface.co/datasets/farsi-asr/ganjoor-chunked-asr-dataset)**:
+* **[Mana-TTS](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS)**: ManaTTS is the largest publicly available single-speaker Persian corpus, comprising over 114 hours of high-quality audio (sampled at 44.1 kHz).
+* **[Mozilla's Common Voice](https://commonvoice.mozilla.org/fa/datasets)**: Mozilla's crowd-sourced speech corpus for Persian.
 
 ---
 
