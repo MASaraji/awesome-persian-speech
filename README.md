@@ -27,7 +27,8 @@ This repository aims to collect and organize high-quality resources for research
 ## 📂 Datasets
 
 * **Common Voice Persian**: Mozilla's crowd-sourced speech corpus for Persian.
-* **[Filimo Farsi](https://huggingface.co/datasets/MohammadGholizadeh/filimo-farsi)**: more thank 400K Audio collected from filimo platform
+* **[Filimo Farsi](https://huggingface.co/datasets/MohammadGholizadeh/filimo-farsi)**: more thank 400K audio collected from filimo platform.
+* **[Youtube Farsi](https://huggingface.co/datasets/MohammadGholizadeh/youtube-farsi)**:  more than 100k audio collected from youtube platform.
 
 ---
 
