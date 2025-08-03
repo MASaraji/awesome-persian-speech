@@ -39,7 +39,7 @@ This repository aims to collect and organize high-quality resources for research
 * **[Mana-TTS](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS)**: ManaTTS is the largest publicly available single-speaker Persian corpus, comprising over 114 hours of high-quality audio (sampled at 44.1 kHz).
 * **[Mozilla's Common Voice](https://commonvoice.mozilla.org/fa/datasets)**: Mozilla's crowd-sourced speech corpus for Persian.
 * **[PAZHVAK](https://huggingface.co/datasets/MASaraji/PAZHVAK)**: Pazhvak is a publicly available, word-level Farsi speech corpus designed for research and development in Farsi speech processing.
-
+* **[ShEMO](https://github.com/pariajm/sharif-emotional-speech-dataset)**: a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays.
 ---
 
 ## 🤖 Automatic Speech Recognition (ASR)
