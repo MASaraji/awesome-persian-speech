@@ -40,6 +40,7 @@ This repository aims to collect and organize high-quality resources for research
 * **[Mozilla's Common Voice](https://commonvoice.mozilla.org/fa/datasets)**: Mozilla's crowd-sourced speech corpus for Persian.
 * **[PAZHVAK](https://huggingface.co/datasets/MASaraji/PAZHVAK)**: Pazhvak is a publicly available, word-level Farsi speech corpus designed for research and development in Farsi speech processing.
 * **[ShEMO](https://github.com/pariajm/sharif-emotional-speech-dataset)**: a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays.
+* **[Persian Voice V1](https://huggingface.co/datasets/vhdm/persian-voice-v1)**: his is a refined version of the Persian subset of Mozilla's Common Voice 17 dataset, specially curated to enhance the performance of ASR (Automatic Speech Recognition) systems in Persian.
 ---
 
 ## 🤖 Automatic Speech Recognition (ASR)
